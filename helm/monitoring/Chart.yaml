@@ -3,5 +3,6 @@ name: pgo-monitoring
 description: Installer for the PGO montioring stack
 
 type: application
+
 version: 0.1.0
 appVersion: 0.1.0
